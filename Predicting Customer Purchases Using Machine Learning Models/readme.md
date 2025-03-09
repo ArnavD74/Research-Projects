@@ -13,7 +13,7 @@ This project aims to predict whether a customer will make a purchase based on va
 
 ## Dataset
 
--   **Source:** Internal dataset of product listings and customer behavior.
+-   **Source:** Internal dataset (provided) of product listings and customer behavior.
 -   **Features Used:** Pricing details, discount percentages, ratings, and categorical variables.
 -   **Processed File:** `prediction.csv` (contains cleaned and transformed data).
 
